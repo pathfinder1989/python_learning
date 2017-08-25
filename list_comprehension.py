@@ -1,0 +1,6 @@
+# _*_coding: utf-8 _*_
+#文件读写操作
+
+listone = [2, 3, 4]
+listtwo = [2*i for i in listone if i > 2]
+print listtwo
