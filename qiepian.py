@@ -8,3 +8,8 @@ for i in range(n):
 print(r)
 
 
+print(L[0:3])
+
+print(L[:3])
+
+#能按顺序切片 能间隔切片，挺好
